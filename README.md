@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction
-Heart Disease Prediction
+
 📌 Project Overview
 
 Heart Disease Prediction is a machine learning project that predicts the likelihood of heart disease in a patient based on medical attributes. The goal is to build and compare multiple classification models and evaluate their performance using appropriate healthcare-focused metrics.
