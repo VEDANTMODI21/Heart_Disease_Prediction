@@ -157,11 +157,3 @@ Deploy as a web app using Flask or Streamlit
 📌 Conclusion
 
 This project demonstrates how machine learning can assist in predicting heart disease using clinical data. By comparing multiple models and focusing on healthcare-relevant metrics, it highlights both the potential and limitations of ML in medical applications.
-
-If you want next:
-
-⭐ Resume bullet points
-
-🎯 Interview questions from this project
-
-🌐 Streamlit deployment README add-on
